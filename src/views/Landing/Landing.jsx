@@ -9,10 +9,10 @@ const Landing = () => {
     return (
         <div className='flex items-center justify-center'>
              <Button>
-         Hello world
+         Sign Up
         </Button>
         <Button>
-         Hello world
+         Register
         </Button>
         </div>
     )
