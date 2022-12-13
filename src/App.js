@@ -1,12 +1,14 @@
 import './App.css';
 
+import Button from '@mui/material/Button';
+
 function App() {
   return (
-    <div className="App">
+    <div className='bg-white'>
       <header className="App-header">
-        <p>
+        <Button>
          Hello world
-        </p>
+        </Button>
       </header>
     </div>
   );
